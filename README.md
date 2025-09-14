@@ -17,8 +17,9 @@ as seguintes soluções:
 
 ---
 
-Como executar (rápido)
-1. Abra `consumo_insumos_notebook.ipynb` no Google Colab ou Jupyter.  
+Como executar 
+[https://colab.research.google.com/drive/1SWcWdVDpZb3TPi8H8Vb86lRaMyiFbx-m?usp=sharing]
+1. Abra `SPRINT_3_DYNAMIC_PROGRAMMING.ipynb` no Google Colab ou Jupyter.  
 2. Execute as células na ordem.  
 3. Verifique as tabelas exibidas com `display()` para insumos, registros de consumo, fila, pilha, resultados de busca e ordenações.
 
